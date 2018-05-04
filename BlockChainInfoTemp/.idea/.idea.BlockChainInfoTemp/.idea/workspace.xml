@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b1c1029-d1f3-4527-9295-1c2dde9f8b3e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ReceiverPay/TestController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ReceiverPay/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/44F1E820-513A-444D-8278-4D130A567374/67/5c77f2a7/ReceivePaymentResponse.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ReceiverPay/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/44F1E820-513A-444D-8278-4D130A567374/b0/0198c1f5/Receive.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/44F1E820-513A-444D-8278-4D130A567374/24/f99d2e13/BlockchainHttpClient.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/98977278-493E-494E-9758-AECE610C68D5/28/1f9065e4/Task`1.cs" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ReceiverPay/Startup.cs" />
+        <option value="$PROJECT_DIR$/ReceiverPay/TestController.cs" />
+        <option value="$PROJECT_DIR$/ReceiverPay/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="57" />
+    <option name="y" value="-4" />
+    <option name="width" value="1863" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BlockChainInfoTemp (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BlockChainInfoTemp (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ReceiverPay" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BlockChainInfoTemp (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ReceiverPay" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BlockChainInfoTemp (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ReceiverPay" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name=".NETCoreApp 2" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BlockChainInfoTemp (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ReceiverPay" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name=".NETCoreApp 2" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Packages" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ReceiverPay/bin/Debug/netcoreapp2.0/ReceiverPay.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ReceiverPay" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ReceiverPay/ReceiverPay.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b1c1029-d1f3-4527-9295-1c2dde9f8b3e" name="Default" comment="" />
+      <created>1525349270874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525349270874</updated>
+      <workItem from="1525349273242" duration="4837000" />
+      <workItem from="1525411730243" duration="281000" />
+      <workItem from="1525412030216" duration="3893000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9011000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="1118" extended-state="7" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4530777" />
+      <window_info anchor="bottom" id="NuGet" order="7" visible="true" weight="0.32896066" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25772098" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3295063" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35116044" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ReceiverPay/TestController.cs</url>
+          <line>32</line>
+          <properties documentPath="$PROJECT_DIR$/ReceiverPay/TestController.cs" initialLine="30">
+            <startOffsets>
+              <startOffset value="1131" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1161" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="$exception" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>ex.Message</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ReceiverPay/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <marker date="1525414730934" expanded="true" signature="6:119" ph="..." />
+            <marker date="1525414730934" expanded="true" signature="142:874" ph="{...}" />
+            <marker date="1525414730934" expanded="true" signature="169:872" ph="{...}" />
+            <marker date="1525414730934" expanded="true" signature="184:399" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1525414730934" expanded="true" signature="466:517" ph="{...}" />
+            <marker date="1525414730934" expanded="true" signature="705:866" ph="{...}" />
+            <marker date="1525414730934" expanded="true" signature="752:829" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReceiverPay/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+          <folding>
+            <marker date="1525414746806" expanded="true" signature="6:63" ph="..." />
+            <marker date="1525414746806" expanded="true" signature="86:456" ph="{...}" />
+            <marker date="1525414746806" expanded="true" signature="113:454" ph="{...}" />
+            <marker date="1525414746806" expanded="true" signature="166:224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReceiverPay/TestController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <marker date="1525414739122" expanded="true" signature="6:230" ph="..." />
+            <marker date="1525414739122" expanded="true" signature="253:1663" ph="{...}" />
+            <marker date="1525414739122" expanded="true" signature="335:1661" ph="{...}" />
+            <marker date="1525414739122" expanded="true" signature="617:1211" ph="{...}" />
+            <marker date="1525414739122" expanded="true" signature="643:1067" ph="{...}" />
+            <marker date="1525414739122" expanded="true" signature="1100:1175" ph="{...}" />
+            <marker date="1525414739122" expanded="true" signature="1370:1539" ph="{...}" />
+            <marker date="1525414739122" expanded="true" signature="1607:1655" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReceiverPay/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <marker date="1525414730934" expanded="true" signature="6:119" ph="..." />
+            <marker date="1525414730934" expanded="true" signature="142:874" ph="{...}" />
+            <marker date="1525414730934" expanded="true" signature="169:872" ph="{...}" />
+            <marker date="1525414730934" expanded="true" signature="184:399" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1525414730934" expanded="true" signature="466:517" ph="{...}" />
+            <marker date="1525414730934" expanded="true" signature="705:866" ph="{...}" />
+            <marker date="1525414730934" expanded="true" signature="752:829" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReceiverPay/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+          <folding>
+            <marker date="1525414746806" expanded="true" signature="6:63" ph="..." />
+            <marker date="1525414746806" expanded="true" signature="86:456" ph="{...}" />
+            <marker date="1525414746806" expanded="true" signature="113:454" ph="{...}" />
+            <marker date="1525414746806" expanded="true" signature="166:224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReceiverPay/TestController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <marker date="1525414739122" expanded="true" signature="6:230" ph="..." />
+            <marker date="1525414739122" expanded="true" signature="253:1663" ph="{...}" />
+            <marker date="1525414739122" expanded="true" signature="335:1661" ph="{...}" />
+            <marker date="1525414739122" expanded="true" signature="617:1211" ph="{...}" />
+            <marker date="1525414739122" expanded="true" signature="643:1067" ph="{...}" />
+            <marker date="1525414739122" expanded="true" signature="1100:1175" ph="{...}" />
+            <marker date="1525414739122" expanded="true" signature="1370:1539" ph="{...}" />
+            <marker date="1525414739122" expanded="true" signature="1607:1655" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/98977278-493E-494E-9758-AECE610C68D5/28/1f9065e4/Task`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="250" column="6" selection-start-line="250" selection-start-column="6" selection-end-line="250" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/44F1E820-513A-444D-8278-4D130A567374/67/5c77f2a7/ReceivePaymentResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/44F1E820-513A-444D-8278-4D130A567374/b0/0198c1f5/Receive.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding>
+            <marker date="1525354245521" expanded="true" signature="0:317" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1525354245521" expanded="false" signature="325:464" ph="..." />
+            <marker date="1525354245521" expanded="true" signature="503:3247" ph="{...}" />
+            <marker date="1525354245521" expanded="true" signature="528:3245" ph="{...}" />
+            <marker date="1525354245521" expanded="true" signature="628:799" ph="{...}" />
+            <marker date="1525354245521" expanded="true" signature="924:1781" ph="{...}" />
+            <marker date="1525354245521" expanded="true" signature="1253:1410" ph="{...}" />
+            <marker date="1525354245521" expanded="true" signature="1437:1755" ph="{...}" />
+            <marker date="1525354245521" expanded="true" signature="1859:2540" ph="{...}" />
+            <marker date="1525354245521" expanded="true" signature="2033:2169" ph="{...}" />
+            <marker date="1525354245521" expanded="true" signature="2196:2514" ph="{...}" />
+            <marker date="1525354245521" expanded="true" signature="2639:3241" ph="{...}" />
+            <marker date="1525354245521" expanded="true" signature="2838:3012" ph="{...}" />
+            <marker date="1525354245521" expanded="true" signature="3039:3215" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/44F1E820-513A-444D-8278-4D130A567374/24/f99d2e13/BlockchainHttpClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-370">
+          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReceiverPay/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525414730934" expanded="true" signature="6:119" ph="..." />
+            <marker date="1525414730934" expanded="true" signature="142:874" ph="{...}" />
+            <marker date="1525414730934" expanded="true" signature="169:872" ph="{...}" />
+            <marker date="1525414730934" expanded="true" signature="184:399" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1525414730934" expanded="true" signature="466:517" ph="{...}" />
+            <marker date="1525414730934" expanded="true" signature="705:866" ph="{...}" />
+            <marker date="1525414730934" expanded="true" signature="752:829" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReceiverPay/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525414746806" expanded="true" signature="6:63" ph="..." />
+            <marker date="1525414746806" expanded="true" signature="86:456" ph="{...}" />
+            <marker date="1525414746806" expanded="true" signature="113:454" ph="{...}" />
+            <marker date="1525414746806" expanded="true" signature="166:224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReceiverPay/TestController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+          <folding>
+            <marker date="1525414739122" expanded="true" signature="6:230" ph="..." />
+            <marker date="1525414739122" expanded="true" signature="253:1663" ph="{...}" />
+            <marker date="1525414739122" expanded="true" signature="335:1661" ph="{...}" />
+            <marker date="1525414739122" expanded="true" signature="617:1211" ph="{...}" />
+            <marker date="1525414739122" expanded="true" signature="643:1067" ph="{...}" />
+            <marker date="1525414739122" expanded="true" signature="1100:1175" ph="{...}" />
+            <marker date="1525414739122" expanded="true" signature="1370:1539" ph="{...}" />
+            <marker date="1525414739122" expanded="true" signature="1607:1655" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
